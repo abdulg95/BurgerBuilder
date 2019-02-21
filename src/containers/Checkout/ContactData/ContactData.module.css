@@ -10,10 +10,6 @@
     ;
 }
 
-.Input{
-    display: block
-}
-
 @media (min-width:600 px){
     .ContactData{
         width: 500px;
